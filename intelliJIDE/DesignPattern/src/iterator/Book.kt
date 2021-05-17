@@ -1,4 +1,3 @@
-package iterator.iterator
+package iterator
 
-class Book {
-}
+data class Book (val name: String)
